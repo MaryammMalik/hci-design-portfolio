@@ -34,8 +34,8 @@
   <text x="790" y="412" font-size="13" font-weight="bold" fill="#222">Grade</text>
   <text x="900" y="412" font-size="13" font-weight="bold" fill="#222">Status</text>
   <g font-size="13" fill="#333">
-    <text x="86" y="452">AGR-301 Crop Physiology</text><text x="480" y="452">24/30</text><text x="580" y="452">52/70</text><text x="680" y="452">76</text><text x="790" y="452">B+</text><text x="900" y="452" fill="#1e7a1e">Published</text>
-    <text x="86" y="492">CS-305 Human Computer Interaction</text><text x="480" y="492">27/30</text><text x="580" y="492">—</text><text x="680" y="492">—</text><text x="790" y="492">—</text><text x="900" y="492" fill="#b58900">Final pending</text>
+    <text x="86" y="452">CS-601 Human Computer Interaction</text><text x="480" y="452">24/30</text><text x="580" y="452">52/70</text><text x="680" y="452">76</text><text x="790" y="452">B+</text><text x="900" y="452" fill="#1e7a1e">Published</text>
+    <text x="86" y="492">CS-301 Data Structures</text><text x="480" y="492">27/30</text><text x="580" y="492">—</text><text x="680" y="492">—</text><text x="790" y="492">—</text><text x="900" y="492" fill="#b58900">Final pending</text>
     <text x="86" y="532">MTH-301 Statistics</text><text x="480" y="532">21/30</text><text x="580" y="532">48/70</text><text x="680" y="532">69</text><text x="790" y="532">B</text><text x="900" y="532" fill="#1e7a1e">Published</text>
     <text x="86" y="572">ENG-301 Technical Writing</text><text x="480" y="572">26/30</text><text x="580" y="572">55/70</text><text x="680" y="572">81</text><text x="790" y="572">A</text><text x="900" y="572" fill="#1e7a1e">Published</text>
   </g>

@@ -25,11 +25,11 @@
 
   <!-- Main area -->
   <text x="280" y="196" font-size="19" font-weight="bold" fill="#222">Assalam-o-Alaikum, Areeba</text>
-  <text x="280" y="220" font-size="13" fill="#555">BSc (Hons) Agriculture · Semester 5 · Morning</text>
+  <text x="280" y="220" font-size="13" fill="#555">BS Computer Science · Semester 7 · Morning</text>
 
   <!-- Deadline alert -->
   <rect x="280" y="240" width="850" height="52" fill="#fde8e8" stroke="#b00020"/>
-  <text x="296" y="272" font-size="14" fill="#7a0016">⏰ Due soon: AGR-301 Assignment 2 — tomorrow, 11:59 pm · CS-305 Quiz — Friday</text>
+  <text x="296" y="272" font-size="14" fill="#7a0016">⏰ Due soon: CS-601 Assignment 2 — tomorrow, 11:59 pm · CS-301 Quiz — Friday</text>
 
   <!-- Course cards -->
   <text x="280" y="330" font-size="16" font-weight="bold" fill="#222">My Courses</text>
@@ -38,13 +38,13 @@
     <rect x="566" y="344" width="268" height="120"/>
     <rect x="852" y="344" width="278" height="120"/>
   </g>
-  <text x="296" y="376" font-size="14" font-weight="bold" fill="#222">AGR-301</text>
-  <text x="296" y="398" font-size="13" fill="#333">Crop Physiology</text>
-  <text x="296" y="424" font-size="12" fill="#555">Next class: Mon 9 am</text>
+  <text x="296" y="376" font-size="14" font-weight="bold" fill="#222">CS-601</text>
+  <text x="296" y="398" font-size="13" fill="#333">Human Computer Interaction</text>
+  <text x="296" y="424" font-size="12" fill="#555">1 assignment pending</text>
   <text x="296" y="446" font-size="12" fill="#0645ad">Open course →</text>
-  <text x="582" y="376" font-size="14" font-weight="bold" fill="#222">CS-305</text>
-  <text x="582" y="398" font-size="13" fill="#333">Human Computer Interaction</text>
-  <text x="582" y="424" font-size="12" fill="#555">1 assignment pending</text>
+  <text x="582" y="376" font-size="14" font-weight="bold" fill="#222">CS-301</text>
+  <text x="582" y="398" font-size="13" fill="#333">Data Structures</text>
+  <text x="582" y="424" font-size="12" fill="#555">Next class: Mon 9 am</text>
   <text x="582" y="446" font-size="12" fill="#0645ad">Open course →</text>
   <text x="868" y="376" font-size="14" font-weight="bold" fill="#222">MTH-301</text>
   <text x="868" y="398" font-size="13" fill="#333">Statistics</text>
