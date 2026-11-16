@@ -59,7 +59,7 @@ Low-fidelity redesign wireframes (SVG files — they can be dragged straight int
 
 ## Figma file
 
-The design file created in Figma for this task: **[HCI-Week-01](https://www.figma.com/design/at8ViHIqW9TE4xJGZvWmHT/HCI-Week-01?node-id=1-4&t=tfFSAsudMghJrwGO-0)** — it contains a Desktop frame (1440 × 1024), a rectangle, an ellipse and the text "HCI Week 01 — Canvas Exploration".
+The design file created in Figma for this task: **[HCI-Week-01](https://www.figma.com/design/at8ViHIqW9TE4xJGZvWmHT/HCI-Week-01?node-id=1-4&t=tfFSAsudMghJrwGO-0)** — Page 1 contains a Desktop frame (1440 × 1024), a rectangle, an ellipse and the text "HCI Week 01 — Canvas Exploration". A second page, **"Student Login Design"**, holds a mobile student login design in a mint-green and dark-teal style: a **Login** screen (graduation cap, "Hello! Welcome Student", email and password fields, Forgot Password, Login button, social login options) and a matching **Sign Up** screen (Back to login, email, password and confirm password fields, Sign Up button), each 375 × 812.
 
 ## How to view the work
 
