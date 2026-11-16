@@ -2,7 +2,7 @@
 
 **Course:** Human Computer Interaction (HCI)
 **Week:** 1 — Introduction to HCI & User Experience Workflow
-**Student:** Areeba
+**Student:** Maryam Malik
 
 ---
 
